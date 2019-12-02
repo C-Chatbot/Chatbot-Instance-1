@@ -1,3 +1,13 @@
-printf("Deathwouldbenicerightnow");
+var a = 1;
+var b = 2
+var c = a+b;
 
-printf("Indeed");
+if (a = 1) {
+    if (c = b*a) {
+
+    }
+
+    else {
+        c = b*a
+    }
+}
