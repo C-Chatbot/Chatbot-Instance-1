@@ -1,13 +1,1 @@
-var a = 1;
-var b = 2
-var c = a+b;
-
-if (a = 1) {
-    if (c = b*a) {
-
-    }
-
-    else {
-        c = b*a
-    }
-}
+printf("This is the main script.");
